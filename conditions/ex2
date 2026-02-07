@@ -1,0 +1,7 @@
+n=float(input("enter the water temperature"))
+if n<=0:
+    print("ICE")
+elif n>0 and n<100:
+    print("LIQUID")
+else :
+    print("VAPOR")
