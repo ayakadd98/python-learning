@@ -1,0 +1,6 @@
+L=int(input("entrer le nombre de lignes"))
+c=int(input("entrer le nombre de colonnes"))
+for i in range(L):
+    print(" ")
+    for j in range(c):
+        print("*",end="")
