@@ -1,0 +1,4 @@
+for j in range(11):
+    M=7*j 
+    print("7*",j,"=",M)
+    
