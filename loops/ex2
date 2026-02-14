@@ -1,0 +1,4 @@
+s=0
+for i in range (0,21):
+    s=s+i 
+print("la somme des 20 premiers entiers positifs est :",s)
